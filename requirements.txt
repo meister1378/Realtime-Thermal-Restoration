@@ -1,0 +1,7 @@
+torch>=2.0
+opencv-python-headless
+numpy
+pillow
+h5py
+pyyaml
+einops
