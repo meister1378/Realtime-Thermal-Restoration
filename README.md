@@ -1,4 +1,4 @@
-# PPFN-small-direct — Real-Time Thermal Image Restoration
+# Real-Time Thermal Image Restoration
 
 A lightweight (4.26M param) restoration model for 16-bit raw thermal camera
 frames, distilled down from [PPFN](https://arxiv.org/abs/2111.09881)
